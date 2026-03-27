@@ -27,7 +27,7 @@ de.popleft()
 print("The deque after deleting is :")
 print(de)
 
-OUTPUT
+OUTPUT 
 
 ![image](https://github.com/user-attachments/assets/d480b121-4864-4ec4-bfcf-a8a57c67f78f)
 
